@@ -1,0 +1,6 @@
+.hero {
+  width: 100vw;
+  height: calc(100vh - 100px);
+  background-color: #ff5858; 
+  margin-top: 100px;
+}
